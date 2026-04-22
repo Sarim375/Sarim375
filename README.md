@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Sarim ✨  <br><br>👨‍💻 Software Developer | 1+ year of FinTech experience | Currently pursuing a Master's degree  <br>💻 Working with .NET, Java, and modern technologies to build impactful projects  <br>🤖 Actively exploring the latest AI models, software, and hardware trends  <br>🛠️ Passionate about engineering, developing, and optimizing workflows  <br>🎮 Gaming enthusiast — especially open-world games  <br>☁️ Explored AWS, cloud computing, and networking <br>⚡ Using modern tools and AI to boost productivity  <br>📈 Continuously learning, evolving, and staying ahead in tech & gaming trends  
+Hey, I'm Sarim ✨  <br><br>👨‍💻 Software Developer | 1+ year of FinTech experience | Currently planning on pursuing a Master's degree  <br>💻 Working with .NET, Java, and modern technologies to build impactful projects  <br>🤖 Actively exploring the latest AI models, software, and hardware trends  <br>🛠️ Passionate about engineering, developing, and optimizing workflows  <br>🎮 Gaming enthusiast — especially open-world games  <br>☁️ Explored AWS, cloud computing, and networking <br>⚡ Using modern tools and AI to boost productivity  <br>📈 Continuously learning, evolving, and staying ahead in tech & gaming trends  
 
 
 ## 🌐 Socials:
