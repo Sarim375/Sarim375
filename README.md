@@ -1,11 +1,54 @@
-# 💫 About Me:
-Hey, I'm Sarim ✨  <br><br>👨‍💻 Software Developer | 1+ year of FinTech experience | Currently planning on pursuing a Master's degree  <br>💻 Working with .NET, Java, and modern technologies to build impactful projects  <br>🤖 Actively exploring the latest AI models, software, and hardware trends  <br>🛠️ Passionate about engineering, developing, and optimizing workflows  <br>🎮 Gaming enthusiast — especially open-world games  <br>☁️ Explored AWS, cloud computing, and networking <br>⚡ Using modern tools and AI to boost productivity  <br>📈 Continuously learning, evolving, and staying ahead in tech & gaming trends  
+# Hi there, I'm Sarim Nadeem! 👋
 
+Software Developer | FinTech Specialist | Tech & Gaming Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/msarimnadeem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarimnadeem375@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube&logoColor=4E9BCD) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
+## 💼 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Experienced Software Developer with a background in designing, developing, and optimizing high-performance, compliant systems. I have over a year of experience in building fintech applications and are currently preparing to pursue a Master's degree to deepen my technical expertise. 
+
+- 🚀 **Tech Stack Focus**: Working extensively with C#, .NET, Java, and modern web frameworks to develop scalable backends.
+- 🤖 **Emerging Technology**: Actively experimenting with the latest AI models, developer tools, and workflow automations to accelerate productivity.
+- 🎮 **Gaming & Engines**: An avid gamer (especially open-world titles) and hobbyist developer exploring gameplay scripting, physics controllers, and pathfinding AI in Unity and Unreal Engine.
+- ☁️ **Cloud & Networking**: Experienced in configuring cloud databases, server architectures (AWS, Firebase), and networking topologies.
+
+---
+
+## ⭐️ Featured Showcase Projects
+
+Here are some of the key projects I have built and optimized to showcase my skills:
+
+### 🌐 Enterprise & Web Development
+- **[💸 SpendSmart](https://github.com/Sarim375/Spend_Smart)**: A personal expense tracker built with **ASP.NET Core MVC** and **EF Core (SQL Server)** featuring clean CRUD operations, automatic balance tallies, and validation forms.
+- **[🖥️ Service Health Monitor](https://github.com/Sarim375/Service-Health-Dashboard-API-Monitoring-System)**: A production-deployed 24/7 API Monitoring Dashboard utilizing **Java**, **JSF**, **PrimeFaces**, and **IBM DB2 (AS400)** integration (proprietary design showcase).
+- **[💳 WEBIMS Auto Batch Processing](https://github.com/Sarim375/Web-Merchant-Integration-System-Auto-Batch-Processing-WEBIMS-)**: A complete migration of a legacy merchant integration system to **.NET 8** using **Clean Architecture** and secure **Maker-Checker (Four-Eyes)** approval workflows (proprietary design showcase).
+- **[🎮 GameStore API](https://github.com/Sarim375/GameStoreManagementAPI)**: A C# Minimal API template built with **.NET 8** to showcase structured REST endpoints and record-based data transfer objects.
+
+### 🕹️ Game Development & Data Science
+- **[🔫 STEEL RAIN FPS Game](https://github.com/Sarim375/STEEL-RAIN-FPS-GAME)**: A 3D First-Person Shooter game built from scratch in **Unity**, featuring rigid-body physics controller scripts, raycast aiming/firing, scoping mechanics, and state-driven NavMesh enemy AI.
+- **[🌲 Forest Terrain (Unity 3D)](https://github.com/Sarim375/Forest-Terrain-Environment-Unity)**: A custom-sculpted standalone 3D terrain environment in **Unity** demonstrating foliage density systems, heightmap modeling, and atmospheric lighting.
+- **[📊 Intro to Data Science](https://github.com/Sarim375/IDS)**: A Jupyter Notebook lab project outlining the data science ecosystem, utilizing core Python tools and arithmetic computation converters.
+
+---
+
+## 🛠️ Technical Skill Matrix
+
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Backend & Core** | C#, .NET / ASP.NET Core, Java, Node.js, Express.js, Python, JWT |
+| **Frontend & Mobile** | React, React Native, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Bootstrap, jQuery |
+| **Databases & Cloud** | MS SQL Server, MySQL, MongoDB, SQLite, AWS, Firebase, AS400 DB2 |
+| **Data Science & ML** | PyTorch, Scikit-Learn, Pandas, NumPy, Plotly |
+| **DevOps & Tooling** | Git, GitHub, GitHub Actions, SonarQube, npm, Cisco |
+| **Game Engines** | Unity, Unreal Engine, Steam, NVIDIA tools |
+| **Design & Media** | Figma, Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Canva |
+
+---
+
+## 📬 Connect with Me
+
+Let's collaborate or chat about software engineering, AI workflows, or game development:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/msarimnadeem) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarimnadeem375@gmail.com)
