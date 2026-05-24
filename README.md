@@ -9,7 +9,7 @@ Software Developer | FinTech Specialist | Tech & Gaming Enthusiast
 Experienced Software Developer with a background in designing, developing, and optimizing high-performance, compliant systems. I have over a year of experience in building fintech applications and are currently preparing to pursue a Master's degree to deepen my technical expertise. 
 
 - 🚀 **Tech Stack Focus**: Working extensively with C#, .NET, Java, and modern web frameworks to develop scalable backends.
-- 🤖 **AI-Augmented Development**: Leveraging AI-assisted engineering workflows with Claude Code, Cursor, Codex, Antigravity IDE, Claude, GPT-5.5, Gemini, and other frontier AI models to accelerate development, debugging, architecture planning, and documentation.
+- 🤖 **AI-Augmented Development**: Leveraging AI-assisted engineering workflows with Claude Code, Cursor, Codex, Antigravity IDE, Claude, GPT, Gemini, and other frontier AI models to accelerate development, debugging, architecture planning, and documentation.
 - 🧠 **Developer Productivity & Automation**: Exploring AI-powered coding agents, workflow automation, prompt engineering, and intelligent IDE integrations to streamline software engineering processes.
 - 🎮 **Gaming & Engines**: An avid gamer (especially open-world titles) and hobbyist developer exploring gameplay scripting, physics controllers, and pathfinding AI in Unity and Unreal Engine.
 - ☁️ **Cloud & Networking**: Experienced in configuring cloud databases, server architectures (AWS, Azure, Firebase) and networking topologies.
