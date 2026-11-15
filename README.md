@@ -1,12 +1,16 @@
 # Hi, I'm Sarim Nadeem
 
-**Software Engineer · MSc Computer Science student · FinTech (banking and payments)**
+**Software Engineer · MSc Computer Science student · Full-stack (.NET, Java, React)**
 
-I build and modernize enterprise banking and payments software. My professional work has been migrating legacy ASP.NET Web Forms and .NET Framework systems onto modern .NET, building role-based web applications for bank operations teams, and integrating them with SQL Server and IBM i (AS/400) core systems.
+I am a full-stack software engineer who enjoys taking on systems, technologies and domains that are new to me. Before I change anything, I read the codebase and work out how the architecture fits together, so that the decisions I make are informed ones. I pick up new tools quickly and use AI every day to learn, build and review faster.
 
-- **Main stack:** C#, .NET 10, ASP.NET Core (Razor Pages and MVC), SQL Server, plus Java (JSF, Quartz) and React.
-- **What I do most:** legacy migration without data migration, maker-checker workflows, role-based access control, reporting with Excel and PDF export, dashboards, and secure sign-in flows.
-- **How I work:** AI-assisted engineering (Claude Code, Cursor, Codex) for development, debugging, architecture planning and documentation.
+Most of my professional experience so far is in banking and payments: migrating legacy ASP.NET Web Forms and .NET Framework systems onto modern .NET, building role-based web applications, and integrating them with SQL Server and IBM i (AS/400) systems. Alongside that I have built projects in machine learning, data science and game development, and I am open to roles in any domain.
+
+- **Main stack:** C#, .NET 10, ASP.NET Core (Razor Pages and MVC), SQL Server, plus Java (JSF, Quartz), React and Python.
+- **How I approach work:** understand the existing code and architecture first, weigh the trade-offs, then choose the design and explain why.
+- **AI-assisted engineering:** Claude Code, Cursor and Codex for development, debugging, architecture planning, code review and documentation.
+- **Adaptable:** I have delivered in C#, Java, JavaScript and Python, on both legacy and modern platforms, and I am comfortable learning a new stack on the job.
+- **What I have done most:** legacy migration, maker-checker workflows, role-based access control, reporting and dashboards, and secure sign-in flows.
 - **Outside work:** hobby game development in Unity and Unreal Engine.
 
 ---
