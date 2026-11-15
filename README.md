@@ -18,12 +18,12 @@ These systems were built in a professional setting and the source code belongs t
 | Project | What it is | Key technologies |
 |---|---|---|
 | [FACE 2.0: Fraud Alert Capturing & Evaluation](https://github.com/Sarim375/FACE-2.0-Fraud-Alert-Capturing-and-Evaluation) | Card fraud case management platform: analysts triage alerts, investigate, block cards and tune detection rules. Re-engineered from Web Forms. | ASP.NET Core, C#, SQL Server, IBM i DB2, Serilog |
-| [VIGIL: ATM & Transaction Monitoring System](https://github.com/Sarim375/VIGIL-ATM-Transaction-Monitoring-System) | Live dashboards for ATM fleet health, cash levels and transaction outcomes, plus operational and regulatory reports. Clean SonarQube scan across four deployments. | ASP.NET Core, React, Material UI, Tailwind CSS, Dapper |
+| [VIGIL: ATM & Transaction Monitoring System](https://github.com/Sarim375/VIGIL-ATM-Transaction-Monitoring-System) | Live dashboards for ATM fleet health, cash levels and transaction outcomes, plus operational and regulatory reports. Clean SonarQube scan across several deployments. | ASP.NET Core, React, Material UI, Tailwind CSS, Dapper |
 | [Master Loyalty Point System 2.0](https://github.com/Sarim375/Loyalty-Points-Management-System-2.0) | Three-tier card-loyalty platform for point redemption, transfer, bulk campaign awards and reporting, with backward-compatible SOAP services. | .NET 10, Razor Pages, SoapCore, WCF, SQL Server |
 | [WEBIMS: Web Merchant Integration System](https://github.com/Sarim375/Web-Merchant-Integration-System-2.0) | Merchant-acquiring back-office portal with maker-checker approval, access control, audit history and settlement scheduling. | ASP.NET Core, EF Core, SQL Server, IBM i DB2, ODBC |
 | [Card Application Registration System](https://github.com/Sarim375/Card-Application-Registration-System) | Built from scratch: a metadata-driven form of 100+ fields with field-level permissions, maker-checker approval and full audit. | ASP.NET Core MVC, Dapper, SQL Server, xUnit |
 | [Service Health Dashboard](https://github.com/Sarim375/Service-Health-Dashboard-API-Monitoring-System) | Real-time health monitoring of payment services with configurable checks, threshold alerting and large-log viewing. | Java 8, JSF, PrimeFaces, Quartz, IBM WebSphere |
-| [Corporate Card Management System](https://github.com/Sarim375/Corporate-Card-Management-System) | Interactive 12-screen prototype and generated user manual for corporate card issuance, approval and control. | HTML, Bootstrap 5, JavaScript, Node.js |
+| [Corporate Card Management System](https://github.com/Sarim375/Corporate-Card-Management-System) | Interactive multi-screen prototype and generated user manual for corporate card issuance, approval and control. | HTML, Bootstrap 5, JavaScript, Node.js |
 
 ## Personal Projects
 
