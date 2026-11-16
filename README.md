@@ -19,7 +19,7 @@ Most of my professional experience so far is in banking and payments: migrating 
 
 - [FACE 2.0](https://github.com/Sarim375/FACE-2.0-Fraud-Alert-Capturing-and-Evaluation): card fraud case management platform (ASP.NET Core, SQL Server, IBM i DB2)
 - [VIGIL](https://github.com/Sarim375/VIGIL-ATM-Transaction-Monitoring-System): ATM and transaction monitoring with live dashboards and reporting (ASP.NET Core, React)
-- [Master Loyalty Point System 2.0](https://github.com/Sarim375/Loyalty-Points-Management-System-2.0): card-loyalty platform with SOAP services (.NET 10, SQL Server)
+- [Master Loyalty Point System 2.0](https://github.com/Sarim375/Loyalty-Points-Management-System-2.0): card-loyalty platform with REST and SOAP services (.NET 10, SQL Server)
 - [WEBIMS](https://github.com/Sarim375/Web-Merchant-Integration-System-2.0): merchant back-office portal with maker-checker approval (ASP.NET Core, EF Core)
 - [Card Application Registration System](https://github.com/Sarim375/Card-Application-Registration-System): metadata-driven application form with field-level permissions (ASP.NET Core MVC, Dapper)
 - [Service Health Dashboard](https://github.com/Sarim375/Service-Health-Dashboard-API-Monitoring-System): real-time service monitoring and alerting (Java, JSF, Quartz)
