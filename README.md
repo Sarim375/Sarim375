@@ -6,7 +6,7 @@ I am a full-stack software engineer who enjoys taking on systems, technologies a
 
 Most of my professional experience so far is in banking and payments: migrating legacy ASP.NET Web Forms and .NET Framework systems onto modern .NET, building role-based web applications, and integrating them with SQL Server and IBM i (AS/400) systems. Alongside that I have built projects in machine learning, data science and game development, and I am open to roles in any domain.
 
-- **Main stack:** C#, .NET 10, ASP.NET Core (Razor Pages and MVC), SQL Server, plus Java (JSF, Quartz), React and Python.
+- **Main stack:** C# and .NET 10 (ASP.NET Core, Entity Framework Core, REST and GraphQL APIs), SQL Server, plus Java, React, TypeScript and Python.
 - **How I approach work:** understand the existing code and architecture first, weigh the trade-offs, then choose the design and explain why.
 - **AI-assisted engineering:** Claude Code, Cursor and Codex for development, debugging, architecture planning, code review and documentation.
 - **Adaptable:** I have delivered in C#, Java, JavaScript and Python, on both legacy and modern platforms, and I am comfortable learning a new stack on the job.
@@ -39,11 +39,12 @@ Most of my professional experience so far is in banking and payments: migrating 
 
 | Category | Skills |
 |---|---|
-| Languages | C#, Java, JavaScript, SQL, Python, HTML, CSS |
-| Back end | .NET 10, ASP.NET Core MVC and Razor Pages, Entity Framework Core, ADO.NET, Dapper, SOAP (SoapCore, WCF), REST API, GraphQL API, JSF, Quartz, Node.js |
+| Languages | C#, Java, JavaScript, TypeScript, SQL, Python, HTML, CSS |
+| Back end | .NET 10, ASP.NET Core MVC and Razor Pages, Entity Framework Core, ADO.NET, Dapper, REST and GraphQL APIs, microservices, SOAP (SoapCore, WCF), JSF, Quartz, Node.js |
 | Front end | React, Material UI, Tailwind CSS, Bootstrap, jQuery, Chart.js, Highcharts, Vite |
 | Databases | Microsoft SQL Server, IBM DB2 for i (AS/400), MySQL, MongoDB, SQLite |
-| Platforms and tools | IIS, IBM WebSphere, Windows Server, Git, GitHub Actions, SonarQube |
+| DevOps and platforms | Docker, Kubernetes, GitLab CI, GitHub Actions, Git, SonarQube, IIS, IBM WebSphere, Windows Server |
+| Enterprise systems | ERP systems, banking and payments platforms, IBM i (AS/400) integration |
 | Practices | Legacy migration, layered and clean architecture, dependency injection, RBAC, maker-checker workflows, unit testing (xUnit), structured logging (Serilog), accessibility (WCAG), technical documentation |
 | Data science and ML | PyTorch, Scikit-Learn, Pandas, NumPy |
 | Game development | Unity, Unreal Engine |
