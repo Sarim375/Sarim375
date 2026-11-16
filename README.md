@@ -8,9 +8,10 @@ Most of my professional experience so far is in banking and payments: migrating 
 
 - **Main stack:** C# and .NET 10 (ASP.NET Core, Entity Framework Core, REST and GraphQL APIs), SQL Server, plus Java, React, TypeScript and Python.
 - **How I approach work:** understand the existing code and architecture first, weigh the trade-offs, then choose the design and explain why.
-- **AI-assisted engineering:** Claude Code, Cursor and Codex for development, debugging, architecture planning, code review and documentation.
+- **AI-assisted engineering:** Claude Code, Codex, Cursor and Antigravity with MCP servers, skills and agent harnesses, for development, debugging, architecture planning, code review and documentation. I follow new models and tooling closely and adopt them early.
 - **Adaptable:** I have delivered in C#, Java, JavaScript and Python, on both legacy and modern platforms, and I am comfortable learning a new stack on the job.
 - **What I have done most:** legacy migration, maker-checker workflows, role-based access control, reporting and dashboards, and secure sign-in flows.
+- **Hardware and IT:** I build and troubleshoot PCs from parts, keep my hardware, operating systems and IDEs (VS Code and others) current, and diagnose problems quickly across software and hardware.
 - **Outside work:** hobby game development in Unity and Unreal Engine.
 
 ---
@@ -44,9 +45,11 @@ Most of my professional experience so far is in banking and payments: migrating 
 | Front end | React, Material UI, Tailwind CSS, Bootstrap, jQuery, Chart.js, Highcharts, Vite |
 | Databases | Microsoft SQL Server, IBM DB2 for i (AS/400), MySQL, MongoDB, SQLite |
 | DevOps and platforms | Docker, Kubernetes, GitLab CI, GitHub Actions, Git, SonarQube, IIS, IBM WebSphere, Windows Server |
+| AI tooling | Claude Code, Codex, Cursor, Antigravity, MCP servers, agent skills and harnesses |
 | Enterprise systems | ERP systems, banking and payments platforms, IBM i (AS/400) integration |
 | Practices | Legacy migration, layered and clean architecture, dependency injection, RBAC, maker-checker workflows, unit testing (xUnit), structured logging (Serilog), accessibility (WCAG), technical documentation |
 | Data science and ML | PyTorch, Scikit-Learn, Pandas, NumPy |
+| Hardware and IT | PC building and assembly, hardware troubleshooting, operating system setup, general IT support |
 | Game development | Unity, Unreal Engine |
 
 ---
